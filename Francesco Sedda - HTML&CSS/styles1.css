@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+header {
+  background: linear-gradient(to right, rgb(52, 217, 26), rgb(224, 252, 37));
+}
+
+.menu-container {
+  padding: 15px 0;
+ justify-content: center;
+}
+
+.menu{
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  margin-left: 15px;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.social {
+  margin-left: 15px;
+}
+
+.photo {
+  width: 200px;
+  border-radius: 8px;
+  margin-top: 180px;
+  margin-left: 85px;
+}
+
+.photo-presentation {
+  height: 150px;
+}
+
+.carousel-presentation {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 26px;
+  color: #000000;
+  text-align: center;
+}
+
+.title-skills {
+  margin-top: 700px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 32px;
+}
+
+.skills-menu1 {
+  margin-top: 90px;
+  width: 350px;
+  height: 500px;
+  margin-left: 10px;
+  border-radius: 5px;
+  background: linear-gradient(to right, rgb(52, 217, 26), rgb(224, 252, 37));
+  box-shadow: 10px 10px 10px #dedede;
+}
+
+.programming-image {
+  width: 330px;
+  height: 210px;
+  margin-left: 9px;
+  margin-top: -30px;
+  border-radius: 5px;
+}
+
+.skills-menu2 {
+  margin-top: 90px;
+  width: 350px;
+  height: 530px;
+  margin-left: 10px;
+  border-radius: 5px;
+  background: linear-gradient(to right, rgb(52, 217, 26), rgb(224, 252, 37));
+  box-shadow: 10px 10px 10px #dedede;
+}
+
+.copy-image {
+  width: 330px;
+  height: 210px;
+  margin-left: 9px;
+  margin-top: -30px;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+figcaption {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.title-skill {
+  color: #4F4F4F
+}
+
+.title-mindset {
+  margin-top: 75px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 32px;
+}
+
+.mindset-block-left {
+  margin-top: 60px;
+  margin-left: 150px;
+}
+
+.text-left {
+  text-align: center;
+  margin-left: 55px;
+  margin-top: 25px;
+  width: 250px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.mindset-block-right {
+  margin-top: 60px;
+  margin-left: 150px;
+}
+
+.text-right {
+  text-align: center;
+  margin-left: 55px;
+  margin-top: 25px;
+  width: 250px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.books {
+  font-family: 'Roboto Mono', monospace;
+  margin-top: 750px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.caption-book {
+  width: 330px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.footer-menu {
+  margin-top: 70px;
+  font-family: 'Roboto Mono', monospace;
+  background: linear-gradient(to right, rgb(52, 217, 26), rgb(224, 252, 37));
+}
+
+.title-footer {
+  margin: 0 auto;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-style: normal;
+}
+
+.contact-block {
+  text-align: center;
+  margin-left: 100px;
+  padding-bottom: 35px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
